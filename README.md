@@ -14,3 +14,9 @@ An integer is a palindrome when it reads the same backward as forward.
 Given the head of a singly linked list, return true if it is a palindrome.
 
 
+#Power of Two
+
+Given an integer n, return true if it is a power of two. Otherwise, return false.
+
+An integer n is a power of two, if there exists an integer x such that n == 2x.
+
