@@ -18,3 +18,10 @@ Given an integer n, return true if it is a power of two. Otherwise, return false
 
 An integer n is a power of two, if there exists an integer x such that n == 2x.
 
+
+# Median of Two Sorted Arrays
+
+Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
+
+The overall run time complexity should be O(log (m+n)).
+
