@@ -25,3 +25,8 @@ Given two sorted arrays nums1 and nums2 of size m and n respectively, return the
 
 The overall run time complexity should be O(log (m+n)).
 
+# Binary Search
+Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.
+
+You must write an algorithm with O(log n) runtime complexity.
+
