@@ -50,3 +50,10 @@ Write a function that takes an unsigned integer and returns the number of '1' bi
 
 Note that in some languages, such as Java, there is no unsigned integer type. In this case, the input will be given as a signed integer type. It should not affect your implementation, as the integer's internal binary representation is the same, whether it is signed or unsigned.
 In Java, the compiler represents the signed integers using 2's complement notation. Therefore, in Example 3, the input represents the signed integer. -3.
+
+##  Contains Duplicate (Faster then 98.37%) 
+
+Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+
+<img width="521" alt="image" src="https://user-images.githubusercontent.com/71595766/197177286-88a6253d-b361-4f1c-b3d3-07b902af7bd6.png">
+
