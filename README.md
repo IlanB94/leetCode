@@ -57,3 +57,11 @@ Given an integer array nums, return true if any value appears at least twice in 
 
 <img width="521" alt="image" src="https://user-images.githubusercontent.com/71595766/197177286-88a6253d-b361-4f1c-b3d3-07b902af7bd6.png">
 
+
+# Valid Anagram
+
+Given two strings s and t, return true if t is an anagram of s, and false otherwise.
+
+An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+
