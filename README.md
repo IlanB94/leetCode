@@ -64,4 +64,10 @@ Given two strings s and t, return true if t is an anagram of s, and false otherw
 
 An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
+# Single Number
+
+Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+
+You must implement a solution with a linear runtime complexity and use only constant extra space.
+
 
