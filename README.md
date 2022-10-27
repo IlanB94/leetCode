@@ -75,4 +75,9 @@ You must implement a solution with a linear runtime complexity and use only cons
 Given an integer num, repeatedly add all its digits until the result has only one digit, and return it.
 
 
+# Remove Linked List Elements
+
+Given the head of a linked list and an integer val, remove all the nodes of the linked list that has Node.val == val, and return the new head.
+
+
 
