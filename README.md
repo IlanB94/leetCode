@@ -89,7 +89,7 @@ The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit int
 You must write an algorithm that runs in O(n) time and without using the division operation.
 
 
-#226. Invert Binary Tree
+# 226. Invert Binary Tree
 
 Given the root of a binary tree, invert the tree, and return its root.
 
