@@ -2,26 +2,36 @@
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. O(n)
 
+
+
 # 4. Median of Two Sorted Arrays
 
 Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
 
 The overall run time complexity should be O(log (m+n)).
 
+
+
 # 9. PalindromeNumber
 
 Given an integer x, return true if x is palindrome integer.
 An integer is a palindrome when it reads the same backward as forward.
 
+
+
 # 50. MyPow
 
 Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
+
+
 
 # 66. Plus One
 
 You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading 0's.
 
 Increment the large integer by one and return the resulting array of digits.
+
+
 
 # 136. Single Number
 
@@ -30,23 +40,28 @@ Given a non-empty array of integers nums, every element appears twice except for
 You must implement a solution with a linear runtime complexity and use only constant extra space.
 
 
+
 # 191. Number Of 1 Bits
 
 Write a function that takes an unsigned integer and returns the number of '1' bits it has (also known as the Hamming weight).
-
-
 Note that in some languages, such as Java, there is no unsigned integer type. In this case, the input will be given as a signed integer type. It should not affect your implementation, as the integer's internal binary representation is the same, whether it is signed or unsigned.
 In Java, the compiler represents the signed integers using 2's complement notation. Therefore, in Example 3, the input represents the signed integer. -3.
+
+
 
 # 203. Remove Linked List Elements
 
 Given the head of a linked list and an integer val, remove all the nodes of the linked list that has Node.val == val, and return the new head.
+
+
 
 # 217. Contains Duplicate (Faster then 98.37%) 
 
 Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
 <img width="521" alt="image" src="https://user-images.githubusercontent.com/71595766/197177286-88a6253d-b361-4f1c-b3d3-07b902af7bd6.png">
+
+
 
 # 226. Invert Binary Tree
 
@@ -60,6 +75,8 @@ Consider the number of unique elements of nums to be k, to get accepted, you nee
 Change the array nums such that the first k elements of nums contain the unique elements in the order they were present in nums initially. The remaining elements of nums are not important as well as the size of nums.
 Return k.
 
+
+
 # 231. Powerof2
 
 Given an integer n, return true if it is a power of two. Otherwise, return false.
@@ -67,9 +84,12 @@ Given an integer n, return true if it is a power of two. Otherwise, return false
 An integer n is a power of two, if there exists an integer x such that n == 2x.
 
 
+
 # 234. PalindromeLinkedList
 
 Given the head of a singly linked list, return true if it is a palindrome.
+
+
 
 # 238. Product of Array Except Self
 
@@ -79,20 +99,28 @@ The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit int
 
 You must write an algorithm that runs in O(n) time and without using the division operation.
 
+
+
 # 242. Valid Anagram
 
 Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 
 An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
+
+
 # 258. Add Digits (Faster than 100.00%)
 
 Given an integer num, repeatedly add all its digits until the result has only one digit, and return it.
+
+
 
 # 392. Is Subsequence
 Given two strings s and t, return true if s is a subsequence of t, or false otherwise.
 
 A subsequence of a string is a new string that is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (i.e., "ace" is a subsequence of "abcde" while "aec" is not).
+
+
 
 # 1046. Last Stone Weight
 
