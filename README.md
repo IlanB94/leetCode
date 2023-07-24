@@ -107,7 +107,7 @@ Given two strings s and t, return true if s is a subsequence of t, or false othe
 A subsequence of a string is a new string that is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (i.e., "ace" is a subsequence of "abcde" while "aec" is not).
 
 
-#50 MyPow
+# 50. MyPow
 Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
 
 
