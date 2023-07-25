@@ -17,6 +17,10 @@ The overall run time complexity should be O(log (m+n)).
 Given an integer x, return true if x is palindrome integer.
 An integer is a palindrome when it reads the same backward as forward.
 
+# 28. Find the Index of the First Occurrence in a String
+    
+Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+
 
 
 # 50. MyPow
