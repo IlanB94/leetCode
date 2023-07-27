@@ -21,6 +21,11 @@ An integer is a palindrome when it reads the same backward as forward.
     
 Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
+#19. [Remove Nth Node From End of List](https://github.com/IlanB94/leetCode/blob/main/removeNthFromEnd.java).
+
+Given the head of a linked list, remove the nth node from the end of the list and return its head.
+
+
 
 
 # 50. [MyPow](https://github.com/IlanB94/leetCode/blob/main/MyPow.java). 
