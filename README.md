@@ -54,6 +54,12 @@ Merge nums1 and nums2 into a single array sorted in non-decreasing order.
 
 The final sorted array should not be returned by the function, but instead be stored inside the array nums1. To accommodate this, nums1 has a length of m + n, where the first m elements denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
 
+# 100. [Same Tree](https://github.com/IlanB94/leetCode/blob/main/isSameTree.java)
+Given the roots of two binary trees p and q, write a function to check if they are the same or not.
+
+Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
+
+
 
 
 # 136. [Single Number](https://github.com/IlanB94/leetCode/blob/main/SingleNumer.java).
