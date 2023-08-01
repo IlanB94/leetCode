@@ -149,6 +149,9 @@ Given an integer n, return true if it is a power of four. Otherwise, return fals
 An integer n is a power of four, if there exists an integer x such that n == 4x.
 
 
+# 387. [First Unique Character in a String](https://github.com/IlanB94/leetCode/blob/main/FirstUniqueChar.java)
+
+Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1.
 
 
 # 392. [Is Subsequence](https://github.com/IlanB94/leetCode/blob/main/isSubsequence.java).
