@@ -136,6 +136,13 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 
 Given an integer num, repeatedly add all its digits until the result has only one digit, and return it.
 
+# 283. [Move Zeroes](https://github.com/IlanB94/leetCode/blob/main/MoveZeros.java)
+
+Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+
+Note that you must do this in-place without making a copy of the array.
+
+
 
 
 # 392. [Is Subsequence](https://github.com/IlanB94/leetCode/blob/main/isSubsequence.java).
