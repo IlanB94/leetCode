@@ -142,6 +142,12 @@ Given an integer array nums, move all 0's to the end of it while maintaining the
 
 Note that you must do this in-place without making a copy of the array.
 
+# 342. [Power of Four](https://github.com/IlanB94/leetCode/blob/main/isPowerOfFour.java)
+
+Given an integer n, return true if it is a power of four. Otherwise, return false.
+
+An integer n is a power of four, if there exists an integer x such that n == 4x.
+
 
 
 
