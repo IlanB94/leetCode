@@ -60,6 +60,11 @@ Given the roots of two binary trees p and q, write a function to check if they a
 Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
 
 
+# 104. [Maximum Depth of Binary Tree](https://github.com/IlanB94/leetCode/blob/main/MaxDepth.java)
+Given the root of a binary tree, return its maximum depth.
+
+A binary tree's maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
 
 
 # 136. [Single Number](https://github.com/IlanB94/leetCode/blob/main/SingleNumer.java).
