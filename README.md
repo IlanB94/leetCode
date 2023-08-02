@@ -171,6 +171,14 @@ Given two strings s and t, return true if s is a subsequence of t, or false othe
 A subsequence of a string is a new string that is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (i.e., "ace" is a subsequence of "abcde" while "aec" is not).
 
 
+# 404. [Sum of Left Leaves](https://github.com/IlanB94/leetCode/blob/main/SumofLeftLeaves.java)
+Given the root of a binary tree, return the sum of all left leaves.
+
+A leaf is a node with no children. A left leaf is a leaf that is the left child of another node.
+
+
+
+
 
 # 1046. [Last Stone Weight](https://github.com/IlanB94/leetCode/blob/main/LastStoneWeight.java).
 
