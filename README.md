@@ -33,7 +33,7 @@ Return the head of the merged linked list.
 
 
 
-# 28. [Find the Index of the First Occurrence in a String] (https://github.com/IlanB94/leetCode/blob/main/FirstUniqueChar.java)
+# 28. [Find the Index of the First Occurrence in a String](https://github.com/IlanB94/leetCode/blob/main/FirstUniqueChar.java).
     
 Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
