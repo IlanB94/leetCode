@@ -22,7 +22,7 @@ An integer is a palindrome when it reads the same backward as forward.
 
 Given the head of a linked list, remove the nth node from the end of the list and return its head.
 
-# 21. [https://github.com/IlanB94/leetCode/blob/main/MergeTwoSortedLists.java](https://github.com/IlanB94/leetCode/blob/main/MergeTwoSortedLists.java)
+# 21. [MergeTwoSortedLists](https://github.com/IlanB94/leetCode/blob/main/MergeTwoSortedLists.java)
 
 You are given the heads of two sorted linked lists list1 and list2.
 
