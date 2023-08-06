@@ -81,7 +81,12 @@ Given a non-empty array of integers nums, every element appears twice except for
 
 You must implement a solution with a linear runtime complexity and use only constant extra space.
 
+# 141. [Linked List Cycle](https://github.com/IlanB94/leetCode/blob/main/LinkedListCycle.java)
+Given head, the head of a linked list, determine if the linked list has a cycle in it.
 
+There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer. Internally, pos is used to denote the index of the node that tail's next pointer is connected to. Note that pos is not passed as a parameter.
+
+Return true if there is a cycle in the linked list. Otherwise, return false.
 
 # 191. [Number Of 1 Bits](https://github.com/IlanB94/leetCode/blob/main/NumberOf1Bits.java)
 
