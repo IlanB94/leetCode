@@ -67,6 +67,10 @@ Given the roots of two binary trees p and q, write a function to check if they a
 
 Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
 
+# 101. [Symmetric Tree](https://github.com/IlanB94/leetCode/blob/main/SymmetricTree.java)
+Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
+
+
 
 # 104. [Maximum Depth of Binary Tree](https://github.com/IlanB94/leetCode/blob/main/MaxDepth.java)
 Given the root of a binary tree, return its maximum depth.
