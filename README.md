@@ -104,6 +104,16 @@ Write a function that takes an unsigned integer and returns the number of '1' bi
 Note that in some languages, such as Java, there is no unsigned integer type. In this case, the input will be given as a signed integer type. It should not affect your implementation, as the integer's internal binary representation is the same, whether it is signed or unsigned.
 In Java, the compiler represents the signed integers using 2's complement notation. Therefore, in Example 3, the input represents the signed integer. -3.
 
+# 202. [Happy Number](https://github.com/IlanB94/leetCode/blob/main/isHappy.java)
+
+Write an algorithm to determine if a number n is happy.
+
+A happy number is a number defined by the following process:
+
+Starting with any positive integer, replace the number by the sum of the squares of its digits.
+Repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1.
+Those numbers for which this process ends in 1 are happy.
+Return true if n is a happy number, and false if not.
 
 
 # 203. [Remove Linked List Elements](https://github.com/IlanB94/leetCode/blob/main/removeElements.java)
