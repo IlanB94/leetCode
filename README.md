@@ -10,6 +10,9 @@ Given two sorted arrays nums1 and nums2 of size m and n respectively, return the
 
 The overall run time complexity should be O(log (m+n)).
 
+# 5. [Longest Palindromic Substring]().
+
+Given a string s, return the longest palindromic substring in s
 
 
 # 9. [PalindromeNumber](https://github.com/IlanB94/leetCode/blob/main/PalindromeNumber.java). 
