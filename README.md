@@ -54,7 +54,7 @@ You are given a large integer represented as an integer array digits, where each
 
 Increment the large integer by one and return the resulting array of digits.
 
-# 80. [Remove duplicates from sorted array II]([https://github.com/IlanB94/leetCode/blob/main/deleteDuplicates.java](https://github.com/IlanB94/leetCode/blob/main/Remove%20duplicates%20from%20sorted%20array%20II.java).
+# 80. [Remove duplicates from sorted array II](https://github.com/IlanB94/leetCode/blob/main/Remove%20duplicates%20from%20sorted%20array%20II.java)
 
 Given an integer array nums sorted in non-decreasing order, remove some duplicates in-place such that each unique element appears at most twice. The relative order of the elements should be kept the same.
 
