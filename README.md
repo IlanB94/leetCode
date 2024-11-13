@@ -145,7 +145,7 @@ Given an integer array nums, return true if any value appears at least twice in 
 
 <img width="521" alt="image" src="https://user-images.githubusercontent.com/71595766/197177286-88a6253d-b361-4f1c-b3d3-07b902af7bd6.png">
 
-# 222. [Counting Nodes] (https://github.com/IlanB94/leetCode/blob/main/countNodes.java).
+# 222. [Counting Nodes](https://github.com/IlanB94/leetCode/blob/main/countNodes.java).
 
 Given the root of a complete binary tree, return the number of the nodes in the tree.
 
