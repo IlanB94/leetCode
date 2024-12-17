@@ -2,6 +2,10 @@
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. O(n)
 
+# 2. [Add-two-numbers](https://github.com/IlanB94/leetCode/blob/main/Add-two-numbers.java).
+
+You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
+
 
 
 # 4. [Median of Two Sorted Arrays](https://github.com/IlanB94/leetCode/blob/main/Median.java).
