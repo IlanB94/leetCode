@@ -25,6 +25,12 @@ Given a string s, return the longest palindromic substring in s
 
 The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
 
+# 7.[Reveres Integer](https://github.com/IlanB94/leetCode/blob/main/ReverseInteger.java)
+
+Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
+
+Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
+
 
 # 9. [PalindromeNumber](https://github.com/IlanB94/leetCode/blob/main/PalindromeNumber.java). 
 
