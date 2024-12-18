@@ -21,6 +21,10 @@ The overall run time complexity should be O(log (m+n)).
 
 Given a string s, return the longest palindromic substring in s
 
+# 6.[Zigzag Conversion](https://github.com/IlanB94/leetCode/blob/main/Zigzag-conversion.java).
+
+The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
+
 
 # 9. [PalindromeNumber](https://github.com/IlanB94/leetCode/blob/main/PalindromeNumber.java). 
 
