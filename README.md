@@ -5,13 +5,13 @@ Welcome to my LeetCode solutions repository! 🚀
 This repository contains my solutions to various LeetCode problems, implemented in Java and other programming languages. The goal of this repository is to document my problem-solving journey, improve my algorithmic skills, and share efficient and clean solutions with the developer community.
 
 ## **Features**
-**-Organized Solutions**: All solutions are grouped by problem type or topic for easy navigation.
+* **Organized Solutions**: All solutions are grouped by problem type or topic for easy navigation.
 
-**-Readable Code**: Each solution is written with clarity and includes meaningful comments for better understanding.
+* **Readable Code**: Each solution is written with clarity and includes meaningful comments for better understanding.
 
-**-Continuous Learning**: Regular updates with new problems and challenges solved.
+* **Continuous Learning**: Regular updates with new problems and challenges solved.
 
-**-Best Practices**: Solutions aim for optimal time and space complexity.
+* **Best Practices**: Solutions aim for optimal time and space complexity.
 
 
 ## **Topics Covered**
