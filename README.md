@@ -6,17 +6,27 @@ This repository contains my solutions to various LeetCode problems, implemented 
 
 ## **Features**
 **-Organized Solutions**: All solutions are grouped by problem type or topic for easy navigation.
+
 **-Readable Code**: Each solution is written with clarity and includes meaningful comments for better understanding.
+
 **-Continuous Learning**: Regular updates with new problems and challenges solved.
+
 **-Best Practices**: Solutions aim for optimal time and space complexity.
+
 
 ## **Topics Covered**
 *Array Manipulation
+
 *Dynamic Programming
+
 *Graph Algorithms
+
 *String Processing
+
 *Backtracking
+
 *Sorting and Searching
+
 *And more...
 
 
