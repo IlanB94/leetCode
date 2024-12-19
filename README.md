@@ -15,19 +15,20 @@ This repository contains my solutions to various LeetCode problems, implemented 
 
 
 ## **Topics Covered**
-*Array Manipulation
 
-*Dynamic Programming
+* **Array Manipulation
 
-*Graph Algorithms
+* **Dynamic Programming
 
-*String Processing
+* **Graph Algorithms
 
-*Backtracking
+* **String Processing
 
-*Sorting and Searching
+* **Backtracking
 
-*And more...
+* **Sorting and Searching
+
+* **And more...
 
 
 # 1.  [TwoSum](https://github.com/IlanB94/leetCode/blob/main/TwoSum.java).
