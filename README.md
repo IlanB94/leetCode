@@ -39,6 +39,9 @@ An integer is a palindrome when it reads the same backward as forward.
 
 # 13. [RomanToInteger](https://github.com/IlanB94/leetCode/blob/main/romanToInteger.java).
 
+# 14.[Longest Common Prefix](https://github.com/IlanB94/leetCode/blob/main/longestCommonPrefix.java)
+
+Write a function to find the longest common prefix string amongst an array of strings.
 
 # 19. [Remove Nth Node From End of List](https://github.com/IlanB94/leetCode/blob/main/removeNthFromEnd.java).
 
