@@ -1,6 +1,4 @@
-# **LeetCode Solutions**
-
-Welcome to my LeetCode solutions repository! 🚀
+# **Welcome to my LeetCode solutions repository! 🚀**
 
 This repository contains my solutions to various LeetCode problems, implemented in Java and other programming languages. The goal of this repository is to document my problem-solving journey, improve my algorithmic skills, and share efficient and clean solutions with the developer community.
 
@@ -30,6 +28,7 @@ This repository contains my solutions to various LeetCode problems, implemented 
 
 * **And more...**
 
+# **LeetCode Solutions**
 
 # 1.  [TwoSum](https://github.com/IlanB94/leetCode/blob/main/TwoSum.java).
 
