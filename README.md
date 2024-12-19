@@ -39,6 +39,12 @@ An integer is a palindrome when it reads the same backward as forward.
 
 # 13. [RomanToInteger](https://github.com/IlanB94/leetCode/blob/main/romanToInteger.java).
 
+# 15. [3Sum](https://github.com/IlanB94/leetCode/blob/main/Sum3.java)
+Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+
+Notice that the solution set must not contain duplicate triplets.
+
+
 # 14.[Longest Common Prefix](https://github.com/IlanB94/leetCode/blob/main/longestCommonPrefix.java)
 
 Write a function to find the longest common prefix string amongst an array of strings.
