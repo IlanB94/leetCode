@@ -1,3 +1,24 @@
+**# LeetCode Solutions**
+Welcome to my LeetCode solutions repository! 🚀
+
+This repository contains my solutions to various LeetCode problems, implemented in Java and other programming languages. The goal of this repository is to document my problem-solving journey, improve my algorithmic skills, and share efficient and clean solutions with the developer community.
+
+**## Features**
+**-Organized Solutions**: All solutions are grouped by problem type or topic for easy navigation.
+**-Readable Code**: Each solution is written with clarity and includes meaningful comments for better understanding.
+**-Continuous Learning**: Regular updates with new problems and challenges solved.
+**-Best Practices**: Solutions aim for optimal time and space complexity.
+
+**Topics Covered**
+*Array Manipulation
+*Dynamic Programming
+*Graph Algorithms
+*String Processing
+*Backtracking
+*Sorting and Searching
+*And more...
+
+
 # 1.  [TwoSum](https://github.com/IlanB94/leetCode/blob/main/TwoSum.java).
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. O(n)
